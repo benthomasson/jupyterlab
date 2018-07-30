@@ -275,7 +275,10 @@ const EXPORT_TO_FORMATS = [
   { 'format': 'pdf', 'label': 'PDF' },
   { 'format': 'rst', 'label': 'ReStructured Text' },
   { 'format': 'script', 'label': 'Executable Script' },
-  { 'format': 'slides', 'label': 'Reveal.js Slides' }
+  { 'format': 'slides', 'label': 'Reveal.js Slides' },
+  { 'format': 'ansible_tasks', 'label': 'Ansible Tasks' },
+  { 'format': 'ansible_playbook', 'label': 'Ansible Playbook' },
+  { 'format': 'ansible_zip', 'label': 'Ansible Zip Bundle' }
 ];
 
 
